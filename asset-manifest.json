@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/console-visualization/static/js/main.1e58cbac.js",
+    "static/media/consolas.ttf": "/console-visualization/static/media/consolas.cd87e6528d4667aa9465.ttf",
+    "index.html": "/console-visualization/index.html",
+    "main.1e58cbac.js.map": "/console-visualization/static/js/main.1e58cbac.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e58cbac.js"
+  ]
+}
